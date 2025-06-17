@@ -23,5 +23,6 @@ Achieved high accuracy and AUC in detecting fake job listings using Random Fores
 ```bash
 git clone https://github.com/Harshit-0/Fake-Job-ML
 cd Fake_Job_Pred
+pip install -r requirements.txt
 streamlit run app.py
 ```
